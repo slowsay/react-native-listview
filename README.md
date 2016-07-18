@@ -55,4 +55,4 @@ const styles = StyleSheet.create({
 
 
 ## version
-v0.0.1 init update
+v0.0.7 init update
