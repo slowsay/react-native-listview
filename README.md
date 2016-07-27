@@ -2,11 +2,13 @@
 
 > listview是react native中上拉翻页插件
 
+[![NPM](https://nodei.co/npm/react-native-listview.png)](https://nodei.co/npm/react-native-listview/)
+
 ## install
 npm install --save react-native-listview
 
 
-[![NPM](https://nodei.co/npm/react-native-listview.png)](https://nodei.co/npm/react-native-listview/)
+
 
 ## example
 ```
