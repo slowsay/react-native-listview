@@ -46,7 +46,7 @@ const styles = StyleSheet.create({
 
 ### pagesize
 
- 每页条数
+每页条数
 
 ### navigator{...props}
 
@@ -55,6 +55,9 @@ const styles = StyleSheet.create({
 ### url
 
 数据源地址,可以异步,里面封装fetch
+
+### onEndReachedThreshold
+离底部距离,默认0
 
 
 ## version
