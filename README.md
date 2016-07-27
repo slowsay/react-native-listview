@@ -41,19 +41,18 @@ const styles = StyleSheet.create({
 
 ## API
 
-###pagesize
+### pagesize
 
-每页条数
+ 每页条数
 
-###navigator
+### navigator{...props}
 
-组件导航继承,没有这个无法进入子页面操作,会报bug
+组件导航继承,没有这个无法进入子页面操作
 
-###url
+### url
 
 数据源地址,可以异步,里面封装fetch
 
 
 ## version
-v0.0.7 update init
-v0.0.8 update utils
+- v0.0.11 update
