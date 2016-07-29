@@ -50,7 +50,7 @@ const styles = StyleSheet.create({
 
 ### navigator{...props}
 
-组件导航继承,没有这个无法进入子页面操作,会报bug
+组件导航继承,没有这个无法进入子页面操作,会报bug,
 
 ### url
 
